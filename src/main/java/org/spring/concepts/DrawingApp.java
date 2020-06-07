@@ -16,6 +16,10 @@ public class DrawingApp {
 		Triangle tanle=(Triangle) context.getBean("tangle");
 		
 		tanle.draw();
+		
+		
+		
+		System.out.println("Git Krakken");
 	}
 
 }
